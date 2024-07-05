@@ -16,4 +16,4 @@ If you encounter any issues or have suggestions for improvements, please open an
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
 # Acknowledgements
-I'd like thank [Elzero Web School](https://github.com/ElzeroWebSchool) and [Unique Coderz Academy](https://www.youtube.com/@UniqueCoderzAcademy) for providing not only expertely-picked practices but also detailed YT videos of coding the templates.
+I'd like to thank [Elzero Web School](https://github.com/ElzeroWebSchool) and [Unique Coderz Academy](https://www.youtube.com/@UniqueCoderzAcademy) for providing not only expertely-picked practices but also detailed YT videos of coding the templates.
